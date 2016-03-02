@@ -1,0 +1,10 @@
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPCBStructure
+*.htm
+*.html
+
+Thumbs.db
+

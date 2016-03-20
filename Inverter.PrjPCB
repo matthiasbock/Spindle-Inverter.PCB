@@ -141,6 +141,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TYJCDBAY
 
 [Document7]
+DocumentPath=Sine Filter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNJAWNNA
+
+[Document8]
 DocumentPath=Bridge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJPSGUUI
 
-[Document8]
+[Document9]
 DocumentPath=Inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JETMPVNQ
 
-[Document9]
+[Document10]
 DocumentPath=Inverter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOSSUSSA
 
-[Document10]
+[Document11]
 DocumentPath=lib\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRGUSYTD
 
-[Document11]
+[Document12]
 DocumentPath=lib\Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHTFFEUQ
 
-[Document12]
+[Document13]
 DocumentPath=lib\Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYUGMQHV
 
-[Document13]
+[Document14]
 DocumentPath=lib\Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
